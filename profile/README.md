@@ -1,7 +1,7 @@
 ```text
-                                        ====================================
-                                                  VEIKE AGENCY
-                                        ====================================
+                                    ====================================
+                                              VEIKE AGENCY
+                                    ====================================
 ```
 
 We build clean, scalable software
@@ -12,9 +12,9 @@ focused on modern web, mobile, and SaaS systems.
 We prioritize clarity, performance, and maintainability.
 
 ```text
-                                        ------------------------------------
-                                                  WHAT WE BUILD
-                                        ------------------------------------
+                                    ------------------------------------
+                                              WHAT WE BUILD
+                                    ------------------------------------
 ```
 
 - Web Applications (Laravel, Livewire, Next.js)
@@ -24,9 +24,9 @@ We prioritize clarity, performance, and maintainability.
 - Auth, Roles, Payments, Reports
 
 ```text
-                                      ------------------------------------
-                                                  TECH STACK
-                                      ------------------------------------
+                                    ------------------------------------
+                                                TECH STACK
+                                    ------------------------------------
 ```
 
 Backend:  Laravel, NestJS, Go  
