@@ -22,4 +22,4 @@ NestJS • Convex DB • REST • GraphQL  • AWS
 Built with consistency and intention.  
 Maintained by Veike Agency.
 
-Contact: support@veikeagency.com
+Contact: @veikeagency@gmail.com
