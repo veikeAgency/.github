@@ -14,7 +14,7 @@ We focus on clarity, performance, and maintainability so teams can
 ship faster without technical debt.
 
 Web & Mobile Apps • SaaS Platforms • APIs  
-Laravel • Livewire • Flutter • React Native • Go 
+Laravel • Livewire • Flutter • React Native • Go • Rust
 NestJS • Convex DB • REST • GraphQL  • AWS
 
 ## Current Projects
